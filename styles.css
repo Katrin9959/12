@@ -1,0 +1,56 @@
+.page-header {
+ background-color:#2f303A;
+ width: 1600px;
+ height: 600px;
+}
+.page-footer {
+background-color: #2f303A;
+    width: 1600px;
+    height: 252px;
+}
+.mail {
+    color: #2196f3;
+}
+h1 {
+    color:#FFFFFF;
+    line-height: 1.5;
+}
+h3 {
+    color:#212121;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #757575;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1600px;
+    height: 60px;
+}
+.kontakt{
+        display: flex;
+        list-style: none;
+}
+.menu {
+    display: flex;
+    list-style: none;
+}
+.menu li{
+    margin-left: 94px;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+.menu li a{
+text-decoration: none;
+}
+.kontakt li a{
+    text-decoration: none;
+    margin-right: 95px;
+}
+.tel {
+    color: #757575;
+}
